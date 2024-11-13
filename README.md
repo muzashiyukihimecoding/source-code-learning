@@ -1,4 +1,4 @@
-# digital-forensic-learning
+# digital-forensic-and-cyber-security-learning
 # web-development-learning
 # data-science-and-artificial-intelligence-building-learning
 # deep-learning-and-machine-learning
