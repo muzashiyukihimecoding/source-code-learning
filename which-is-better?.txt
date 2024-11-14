@@ -1,3 +1,7 @@
 Main game atau Belajar coding?
 
 jelas paling worth it tuh belajar coding. Sekarang saya sedang belajar menggunakan Git dan GitHub
+
+Bahasa Pemrograman :
+- C/C++
+- Python
