@@ -10,3 +10,5 @@ Bahasa Pemrograman :
 - Java
 - HTML & CSS
 - JavaScript
+  - Framework
+  - E36
