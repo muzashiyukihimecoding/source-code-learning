@@ -4,6 +4,8 @@ jelas paling worth it tuh belajar coding. Sekarang saya sedang belajar menggunak
 
 Bahasa Pemrograman :
 - C/C++
+  - Microsoft Visual
+  - Visual Distribution
 - Python
 - Java
 - HTML & CSS
