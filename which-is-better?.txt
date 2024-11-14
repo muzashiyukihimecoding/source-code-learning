@@ -5,3 +5,6 @@ jelas paling worth it tuh belajar coding. Sekarang saya sedang belajar menggunak
 Bahasa Pemrograman :
 - C/C++
 - Python
+- Java
+- HTML & CSS
+- JavaScript
