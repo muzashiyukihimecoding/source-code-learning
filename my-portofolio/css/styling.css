@@ -1,0 +1,98 @@
+:root {
+   --nav-blue: #000000;
+   --wavy-blue: #111827;
+   --kawaii-blue: #00fff6;
+}
+
+/* Fonts here */
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap");
+
+* {
+   /* outline: 1px solid red; */
+}
+
+html,
+body {
+   /* width: 9 */
+   margin: 0;
+   padding: 0;
+   /* font-family: "Lexend Deca", serif; */
+   font-family: "Montserrat";
+   background: var(--wavy-blue);
+   overflow-x: hidden;
+}
+
+nav {
+   /* Positions biar ngga kemana2 */
+   /* position: fixed; */
+   top: 0;
+   left: 0;
+   /* width: 95%; */
+   z-index: 1000;
+   /* overflow: hidden; */
+   /* Elemen lain */
+   display: flex;
+   justify-content: space-between;
+   padding: 1rem 8rem;
+   /* padding: 20px 50px; */
+   background-color: var(--nav-blue);
+   align-items: center;
+   text-align: center;
+   align-content: center;
+   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+p {
+   color: white;
+}
+
+h4 {
+   color: #00fff6;
+}
+h1 span {
+   color: red;
+}
+
+ul {
+   display: flex;
+   color: white;
+   list-style: none;
+   gap: 24px;
+}
+
+.right-nav a {
+   color: white;
+   text-decoration: none;
+}
+
+.intro-profile {
+   margin: 8rem;
+   margin-top: 30rem;
+   display: flex;
+   justify-content: space-between;
+   /* justify-content: space-between; */
+   align-items: center;
+}
+
+.profile-text {
+   max-width: 600px;
+}
+
+.profile-text p {
+   margin-bottom: 2rem;
+}
+
+.cv-button {
+   color: var(--nav-blue);
+   background-color: var(--kawaii-blue);
+   font-size: 12px;
+   font-weight: 500;
+   padding: 14px 36px;
+   border-radius: 14px;
+}
+
+#my-photo-profile {
+   /* width: 480px; */
+   height: 480px;
+}
